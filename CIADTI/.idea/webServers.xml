@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdfdd4ea-a445-49d7-9bdc-28f7cea31eac" name="IIFDTIFU">
+        <fileTransfer rootFolder="/data3/ruandacheng" accessType="SFTP" host="210.45.212.61" port="9000" sshConfigId="884e9705-3560-4db9-9ba1-62cfff2b46b7" sshConfig="ruandacheng@210.45.212.61:9000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
