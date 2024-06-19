@@ -23,5 +23,3 @@ layers for predicting DTIs.
 2. data_preprocess: Process the data to get the input of the model
 3. main.py: start file for model training
 
-## Contact
-if you have any questions or suggestions with the codes, please let us know, Contact Zhongjian Cheng at 448386695@qq.com
